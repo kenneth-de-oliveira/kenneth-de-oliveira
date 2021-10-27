@@ -1,7 +1,7 @@
 <h1> 𝐇𝐢! 𝐈'𝐦 Kenneth. <img src = "https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width = "25"> </h1>
 
 - 🔭 Meu nome é Kenneth, sou Full-Stack Developer.
-- 🌱 Atualmente trabalho com tecnologias como Spring Boot, Angular e Git
+- 🌱 Atualmente trabalho com: Spring Boot, Angular e Git
 - 📫 Como entrar em contato comigo: kennetholiveira2015@gmail.com
 - 😄 Atualmente Pós Graduando em Engenharia de Software (PUC Minas)
 - :office_worker: Software Engineer at Indra
