@@ -6,7 +6,7 @@
 - 😄 Atualmente Pós Graduando em Engenharia de Software (PUC Minas)
 - :office_worker: Software Engineer at Indra
 
-* idiomas: Array <string> = [
+* Idiomas: Array <string> = [
     "Português",
     "Inglês"
   ];
