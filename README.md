@@ -14,8 +14,8 @@
 <div>
 
   <a href="https://github.com/kenneth-de-oliveira">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=kenneth-de-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kenneth-de-oliveira&layout=compact&langs_count=7&theme=dark" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=kenneth-de-oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kenneth-de-oliveira&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <div style = "display: inline_block"> <br>
     <h2> 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬: </h2>
