@@ -3,7 +3,8 @@
 - 🔭 Meu nome é Kenneth, sou Full-Stack Developer.
 - 🌱 Atualmente trabalho focado no backend
 - 📫 Como entrar em contato comigo: kennetholiveira2015@gmail.com
-- 😄 Atualmente Pós Graduando em Engenharia de Software (PUC Minas)
+- 😄 Sou Pós Graduando em Engenharia de Software pela PUC Minas
+- Possuo interesses em áreas como: Desenvolvimento, DevOps, Arquitetura de Soluções e Engenharia de Software 
 - :office_worker: Software Engineer at Indra
 
 * Idiomas: Array <string> = [
