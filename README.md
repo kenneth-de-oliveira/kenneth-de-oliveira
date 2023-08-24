@@ -1,6 +1,6 @@
 <h1> 𝐇𝐢! 𝐈'𝐦 Kenneth. <img src = "https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width = "25"> </h1>
 
-- 🔭 Meu nome é Kenneth, sou OSS Solution Architect
+- 🔭 Meu nome é Kenneth, sou Arquiteto de Software
 - 🌱 Atualmente trabalho focado no backend
 - 📫 Como entrar em contato comigo: kennetholiveira2015@gmail.com
 - 😄 Sou graduado em Ciência da Computação e pós graduado em Engenharia de Software pela PUC Minas
