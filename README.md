@@ -1,11 +1,11 @@
 <h1> 𝐇𝐢! 𝐈'𝐦 Kenneth. <img src = "https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width = "25"> </h1>
 
-- 🔭 Meu nome é Kenneth, sou Full-Stack Developer.
+- 🔭 Meu nome é Kenneth, sou OSS Solution Architect
 - 🌱 Atualmente trabalho focado no backend
 - 📫 Como entrar em contato comigo: kennetholiveira2015@gmail.com
-- 😄 Sou Pós Graduando em Engenharia de Software pela PUC Minas
+- 😄 Sou graduado em Ciência da Computação e pós graduado em Engenharia de Software pela PUC Minas
 - 📫 Possuo interesses em áreas como: Desenvolvimento, DevOps, Arquitetura de Soluções e Engenharia de Software 
-- :office_worker: Software Engineer at Indra
+- :office_worker: Software Architect at Indra
 
 * Idiomas: Array <string> = [
     "Português",
